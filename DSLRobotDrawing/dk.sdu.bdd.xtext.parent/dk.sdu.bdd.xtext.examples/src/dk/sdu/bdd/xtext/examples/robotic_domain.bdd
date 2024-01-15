@@ -1,7 +1,0 @@
-model robotic_domain
-
-imperative entity robot {
-	actions: moves
-	properties: position, speed
-}
- 
