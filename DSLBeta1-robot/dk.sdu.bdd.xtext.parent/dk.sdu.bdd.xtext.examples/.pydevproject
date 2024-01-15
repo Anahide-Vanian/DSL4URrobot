@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+            
+    
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+            
+    
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+        
+    
+    <pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+        <path>C:\Users\ansil\AppData\Roaming\Python\Python312\site-packages\ur_rtde-1.5.7.dist-info</path>
+        <path>C:\Users\ansil\ur_rtde\include\ur_rtde</path>
+    </pydev_pathproperty>
+    
+</pydev_project>

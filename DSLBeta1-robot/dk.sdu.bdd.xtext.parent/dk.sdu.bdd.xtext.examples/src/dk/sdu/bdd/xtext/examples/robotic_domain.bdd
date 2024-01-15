@@ -1,0 +1,33 @@
+model robotic_domain
+
+imperative entity robot {
+	actions: moves
+	properties: position, speed
+}
+
+imperative entity gripper {
+	actions: closes, opens
+	states: closed, opened	
+}
+
+imperative entity input {
+	states: ON/OFF 
+	properties: signal
+}
+
+imperative entity sensor is input {
+}
+
+imperative entity button is input {
+}
+
+imperative entity output {
+	actions: activates, deactivates
+	states: ON/OFF
+}
+
+imperative entity light is output {
+}
+
+imperative entity buzzer is output {
+}

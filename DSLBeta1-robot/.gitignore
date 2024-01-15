@@ -1,0 +1,15 @@
+bin/
+target/
+**/.polyglot.build.properties
+**/*.xtendbin
+**/*.xtextbin
+**/*._trace
+**/src-gen/
+**/xtend-gen/
+/.metadata/
+**/test-bin/
+**/generated/
+**/.DS_Store
+**/*.xml_gen
+
+**/.settings
