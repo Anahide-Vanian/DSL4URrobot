@@ -39,7 +39,7 @@ Follow the instructions below to set up and run the project:
 5. **Install Python Extensions:**
 
 Since the project includes Python source code, ensure you have Python extensions installed. Follow these steps:
-   - Open Eclipse and go to `Help -> Eclipse Marketplace`..
+   - Open Eclipse and go to `Help -> Eclipse Marketplace`.
    - Type "PyDev" into the search bar.
    - Follow the instructions to install the PyDev plugin.
   
